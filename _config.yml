@@ -1,0 +1,14 @@
+layout_spectrum: 0.30514732748270035
+typography_spectrum: 0.9762962255626917
+color:
+  brandStrength: 0.5537302754819393
+  lightness: 0.9519100952893496
+  saturation: 0.9868095598649234
+  rhythmicContrast: 0.2865721124690026
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: the answer is 42
